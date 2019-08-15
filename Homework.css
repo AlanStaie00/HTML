@@ -1,0 +1,28 @@
+<link rel="stylesheet" 
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
+crossorigin="anonymous">
+
+.body {background-color: whitesmoke; color: black}
+
+.content {background-color: whitesmoke; width: 800px; margin-left: auto; margin-right: auto}
+    main {float: right}
+
+    nav {float: left}
+
+    h1 {color: whitesmoke;
+        background-color: sandybrown;
+        font-family: times new roman;
+        font-weight: bold}
+
+    h3 {color: orangered;
+        font-size: 10px;
+        background-color: white;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        align-content: right;
+        font-weight: bold;
+
+    p { font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 14}
+
+#footer {align-content: center; clear: both; 
+    background-color: blue}
